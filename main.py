@@ -11,6 +11,8 @@ Jatekos()
 adattagok: nev, poz, kaszt, hp - nem kívülről kapja, hanem '''
 
 from Jatekter import Jatekter
+Jatekter=Jatekter()
+
 
 
 

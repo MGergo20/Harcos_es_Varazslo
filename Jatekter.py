@@ -1,5 +1,5 @@
 from Jatekos import Jatekos
-class Jatekos:
+class Jatekter:
     def __init__(self):
         self.harcos=Jatekos("Tubamtolog",0,"harcos","👲")
         self.varazslo=Jatekos("Pötyi Laci",2,"varazslo","🧙‍♀️")
